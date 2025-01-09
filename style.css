@@ -1,0 +1,214 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+.fl{
+    float: left;
+    margin-left: 5%;
+}
+.fr{
+    float: right;
+    margin-left: 6%;
+}
+.wrapper{
+    height: auto;
+    width: 100%;
+}
+.img69{
+    height: 8vh;
+    
+}
+.navbar{
+    position: fixed;
+    width: 100%;
+}
+.container-fluid{
+    background-color: white;
+}
+.page1{
+    width: 100%;
+    height: 70vh;
+}
+.text{
+    float: left;
+    height: 37vh;
+    text-align: center;
+    margin-top: 8%;
+    width: 40%;
+    margin-left: 10%;
+    /* background-color: aquamarine; */
+}
+.text h1{
+    color: #662c92;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.text p{
+    color: black;
+}
+.text button{
+    background-color: #662c92;
+    height: auto;
+    width: auto;
+    border-radius: 60px;
+    cursor: pointer;
+    color: white;
+}
+.text button:hover{
+    background-color: blueviolet;
+    box-shadow: 10px 10px 20px rgba(36, 36, 36, 0.5);
+}
+.image1{
+    width: 30%;
+    height: 32vh;
+    margin-top: 8%;
+    float: right;
+    margin-right: 10%;
+    /* background-color: blanchedalmond; */
+}
+.image1 img{
+    height: 35vh;
+    align-items: center;
+    border-radius: 12px;
+}
+.page2{
+    height: auto;
+    width: 100%;
+    display: table;
+    text-align: center;
+}
+.ht{
+    color: #662c92;  
+    font-size: 4rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.card-title{
+    color: #662c92;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.card{
+    margin-top: 5%;
+}
+.row1{
+    width: auto;
+    height: auto;
+    margin: auto;
+    background-color: aquamarine;
+}
+.row2{
+    width: auto;
+    height: auto;
+    margin: auto;
+    background-color: cadetblue;
+}
+.page3{
+    height: auto;
+    width: 100%;
+    margin-top: 5%;
+}
+.box3{
+    text-align: center;
+    width: 90%;
+    height: 110vh;
+    background-color: #662c92;
+    border-radius: 14px;
+    margin: auto;
+}
+.up{
+    padding-top: 5%;
+}
+.box3 h1{
+    font-size: 2.5rem;
+    color: aliceblue;
+}
+.down{
+    margin: auto;
+    height: 80vh;
+    width: 80%;
+    background-color: aliceblue;
+    border-radius: 15px;
+}
+.dtext{
+    /* background-color: aquamarine; */
+    height: auto;
+    margin-top: 5%;
+    width: 45%;
+    float: left;
+    text-align: left;
+    margin-left: 3%;
+}
+.dtext h1{
+    color: black;
+}
+.dtext p{
+    color: black;
+    height: auto;
+    /* line-height: 1.8; */
+}
+.dtext button{
+        background-color: #662c92;
+        height: auto;
+        width: auto;
+        margin-top: 2%;
+        border-radius: 60px;
+        cursor: pointer;
+        color: aliceblue;
+        font-size: 1.3rem;
+}
+
+.dimg{
+    float: right;
+    margin-right: 5%;
+    margin-top: 15%;
+    width: 45%;
+    height:60vh ;
+    /* background-color: blanchedalmond; */
+}
+.dimg img{
+    height: 35vh;
+    border-radius: 15px;
+}
+.footer{
+    width: 100%;
+    height: 60vh;
+    background-color: azure;
+}
+.footer h6{
+    text-align: left;
+    line-height: 1.5;
+}
+.col1,.col2,.col3{
+    text-align: center;
+    margin-top: 3%;
+    width: 15%;
+    height: auto;
+    margin-left: 13%;
+}
+.col1 img{
+    height: 10vh;
+}
+.footer li{
+    list-style: none;
+    margin-top: 3%;
+}
+.footer a{
+    text-decoration: none;
+    color: black;
+}
+.col3{
+    margin-top: 0;
+    font-size: .8rem;
+    width: 25%;
+    text-align: center;
+}
+.col3 h3{
+    font-size: 1rem;
+}
+.ms{
+    margin-left: 28%;
+}
+.navlink:active {
+    color: yellow;
+    }
+
+
+
